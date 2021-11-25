@@ -1,4 +1,4 @@
-#!/usr/bin/sh
+#!/bin/sh
 
 python3 scripts/run_training \
         --config                      config/vgg.json \

@@ -36,7 +36,7 @@
                     }
                 }
              },
-            "batch_size": 40,
+            "batch_size": 1,
             "drop_last": true,
             "shuffle": true,
             "num_workers": 4,
