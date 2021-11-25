@@ -2,7 +2,6 @@
 **/__init__.pyc
 **/.ipynb_checkpoints
 
-data/*
 !data/get_ctest.sh
 
 figures/*
