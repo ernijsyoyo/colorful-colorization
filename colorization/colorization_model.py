@@ -189,7 +189,7 @@ class ColorizationModel:
         done = False
         while not done:
             for iter, img in enumerate(dataloader):
-                print(f"Processing img {iter} {img.id}")
+                print(f"Processing img {iter}")
                 # move data to device
                 img = img.to(self.device, non_blocking=dataloader.pin_memory)
 
